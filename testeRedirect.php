@@ -1,0 +1,1 @@
+<img src="/bootstrap/img/slide-03.jpg" alt="">
